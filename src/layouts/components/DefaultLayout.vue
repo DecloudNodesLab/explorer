@@ -61,9 +61,9 @@ function selected(route: any, nav: NavLink) {
     >
       <div class="flex items-center pl-4 py-4 mb-1">
         <RouterLink to="/" class="flex items-center">
-          <img class="w-10 h-10" src="../../assets/logo.svg" />
+          <img class="w-10 h-10" src="/logo.png" />
           <h1 class="flex-1 ml-3 text-2xl font-semibold dark:text-white">
-            Ping.pub
+            DNL Explorer
           </h1>
         </RouterLink>
         <div
@@ -207,39 +207,24 @@ function selected(route: any, nav: NavLink) {
           Sponsors
         </div>
         <a
-          href="https://osmosis.zone"
+          href="https://akash.network/"
           target="_blank"
           class="py-2 px-4 flex items-center cursor-pointer rounded-lg hover:bg-gray-100 dark:hover:bg-[#373f59]"
         >
           <img
-            src="https://ping.pub/logos/osmosis.jpg"
+            src="https://ping.pub/logos/akash-network.png"
             class="w-6 h-6 rounded-full mr-3"
           />
           <div
             class="text-sm capitalize flex-1 text-gray-600 dark:text-gray-200"
           >
-            Osmosis
+            akash-network
           </div>
         </a>
-        <a
-          href="https://becole.com"
-          target="_blank"
-          class="py-2 px-4 flex items-center cursor-pointer rounded-lg hover:bg-gray-100 dark:hover:bg-[#373f59]"
-        >
-          <img
-            src="https://becole.com/static/logo/logo_becole.png"
-            class="w-6 h-6 rounded-full mr-3"
-          />
-          <div
-            class="text-sm capitalize flex-1 text-gray-600 dark:text-gray-200"
-          >
-            Becole
-          </div>
-        </a>
-
+		
         <div class="px-4 text-sm pt-2 text-gray-400 pb-2 uppercase">Links</div>
         <a
-          href="https://twitter.com/ping_pub"
+          href="https://twitter.com/Nodeslab"
           target="_blank"
           class="py-2 px-4 flex items-center cursor-pointer rounded-lg hover:bg-gray-100 dark:hover:bg-[#373f59]"
         >
@@ -251,8 +236,7 @@ function selected(route: any, nav: NavLink) {
           </div>
         </a>
         <a
-          v-if="showDiscord"
-          href="https://discord.com/invite/CmjYVSr6GW"
+          href="https://discord.gg/rPENzerwZ8"
           target="_blank"
           class="py-2 px-4 flex items-center rounded-lg cursor-pointer hover:bg-gray-100 dark:hover:bg-[#373f59]"
         >
@@ -264,7 +248,19 @@ function selected(route: any, nav: NavLink) {
           </div>
         </a>
         <a
-          href="https://github.com/ping-pub/explorer/discussions"
+          href="https://declab.pro"
+          target="_blank"
+          class="py-2 px-4 flex items-center rounded-lg cursor-pointer hover:bg-gray-100 dark:hover:bg-[#373f59]"
+        >
+          <Icon icon="mdi:rocket" class="text-xl mr-2" />
+          <div
+            class="text-base capitalize flex-1 text-gray-600 dark:text-gray-200"
+          >
+            Site
+          </div>
+        </a>
+        <a
+          href="https://github.com/DecloudNodesLab/Guides/blob/main/README.md"
           target="_blank"
           class="py-2 px-4 flex items-center rounded-lg cursor-pointer hover:bg-gray-100 dark:hover:bg-[#373f59]"
         >
