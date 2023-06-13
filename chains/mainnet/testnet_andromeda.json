@@ -1,0 +1,19 @@
+{
+    "chain_name": "Testnet Andromeda",
+    "api": ["https://api-t.andromeda.nodestake.top"],
+    "rpc": ["https://rpc-t.andromeda.nodestake.top"],
+    "snapshot_provider": "",
+    "sdk_version": "0.45.12",
+    "coin_type": "118",
+    "min_tx_fee": "800",
+    "addr_prefix": "andr",
+    "logo": "/logos/andromeda.jpg",
+    "assets": [
+      {
+        "base": "uandr",
+        "symbol": "ANDR",
+        "exponent": "6",
+        "logo": "/logos/andromeda.jpg"
+      }
+    ]
+  }

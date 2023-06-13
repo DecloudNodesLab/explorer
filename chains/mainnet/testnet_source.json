@@ -1,0 +1,19 @@
+{
+    "chain_name": "Testnet Source Protocol",
+    "api": ["https://api-t.source.nodestake.top"],
+    "rpc": ["https://rpc-t.source.nodestake.top"],
+    "snapshot_provider": "",
+    "sdk_version": "0.45.1",
+    "coin_type": "118",
+    "min_tx_fee": "800",
+    "addr_prefix": "source",
+    "logo": "/logos/source.jpg",
+    "assets": [
+      {
+        "base": "usource",
+        "symbol": "SOURCE",
+        "exponent": "6",
+        "logo": "/logos/source.jpg"
+      }
+    ]
+  }

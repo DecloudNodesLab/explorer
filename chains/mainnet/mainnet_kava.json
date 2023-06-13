@@ -1,5 +1,5 @@
 {
-    "chain_name": "kava",
+    "chain_name": "Mainnet Kava",
     "coingecko": "kava",
     "api": "https://api.data.kava.io",
     "rpc": ["https://rpc.kava.io:443", "https://rpc.kava.io:443"],

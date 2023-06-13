@@ -1,0 +1,19 @@
+{
+    "chain_name": "Testnet Hypersign",
+    "api": ["https://api-t.hypersign.nodestake.top"],
+    "rpc": ["https://rpc-t.hypersign.nodestake.top"],
+    "snapshot_provider": "",
+    "sdk_version": "0.45.11",
+    "coin_type": "118",
+    "min_tx_fee": "800",
+    "addr_prefix": "hid",
+    "logo": "/logos/hypersign.png",
+    "assets": [
+      {
+        "base": "uhid",
+        "symbol": "HID",
+        "exponent": "6",
+        "logo": "/logos/hypersign.png"
+      }
+    ]
+  }

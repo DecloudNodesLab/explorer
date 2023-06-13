@@ -1,0 +1,19 @@
+{
+    "chain_name": "Testnet Lava",
+    "api": ["https://lava-testnet-api.polkachu.com"],
+    "rpc": ["https://lava-testnet-rpc.polkachu.com"],
+    "snapshot_provider": "",
+    "sdk_version": "0.45.11",
+    "coin_type": "118",
+    "min_tx_fee": "800",
+    "addr_prefix": "lava",
+    "logo": "/logos/lava.png",
+    "assets": [
+      {
+        "base": "ulava",
+        "symbol": "LAVA",
+        "exponent": "6",
+        "logo": "/logos/lava.png"
+      }
+    ]
+  }

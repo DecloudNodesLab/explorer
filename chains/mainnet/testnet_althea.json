@@ -1,0 +1,19 @@
+{
+    "chain_name": "Testnet Althea",
+    "api": ["https://althea-testnet-api.polkachu.com"],
+    "rpc": ["https://althea-testnet-rpc.polkachu.com"],
+    "snapshot_provider": "",
+    "sdk_version": "0.45.11",
+    "coin_type": "118",
+    "min_tx_fee": "800",
+    "addr_prefix": "althea",
+    "logo": "/logos/althea.png",
+    "assets": [
+      {
+        "base": "ualthea",
+        "symbol": "ALTHEA",
+        "exponent": "18",
+        "logo": "/logos/althea.png"
+      }
+    ]
+  }
