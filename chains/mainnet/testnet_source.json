@@ -1,5 +1,5 @@
 {
-    "chain_name": "Testnet Source Protocol",
+    "chain_name": "Testnet-Source-Protocol",
     "api": ["https://api-t.source.nodestake.top"],
     "rpc": ["https://rpc-t.source.nodestake.top"],
     "snapshot_provider": "",

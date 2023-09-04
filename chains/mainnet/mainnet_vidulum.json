@@ -1,5 +1,5 @@
 {
-    "chain_name": "Mainnet Vidulum",
+    "chain_name": "Mainnet-Vidulum",
     "coingecko": "vidulum",
     "api": ["https://mainnet-lcd.vidulum.app", "https://api-vidulum-ia.cosmosia.notional.ventures"],
     "rpc": ["https://mainnet-rpc.vidulum.app:443", "https://rpc-vidulum-ia.cosmosia.notional.ventures:443"],

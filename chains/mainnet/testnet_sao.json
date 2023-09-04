@@ -1,5 +1,5 @@
 {
-    "chain_name": "Testnet SAO Network",
+    "chain_name": "Testnet-SAO-Network",
     "api": ["https://api-t.sao.nodestake.top"],
     "rpc": ["https://rpc-t.sao.nodestake.top"],
     "snapshot_provider": "",

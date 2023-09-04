@@ -1,5 +1,5 @@
 {
-    "chain_name": "Testnet Timpichain",
+    "chain_name": "Testnet-Timpichain",
     "api": ["https://api-t.timpi.nodestake.top"],
     "rpc": ["https://rpc-t.timpi.nodestake.top"],
     "snapshot_provider": "",

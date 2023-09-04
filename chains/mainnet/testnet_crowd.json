@@ -1,5 +1,5 @@
 {
-    "chain_name": "Testnet Crowd Control",
+    "chain_name": "Testnet-Crowd Control",
     "api": ["https://api-t.crowd.nodestake.top"],
     "rpc": ["https://rpc-t.crowd.nodestake.top"],
     "snapshot_provider": "",

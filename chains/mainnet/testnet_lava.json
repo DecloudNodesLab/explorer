@@ -1,5 +1,5 @@
 {
-    "chain_name": "Testnet Lava",
+    "chain_name": "Testnet-Lava",
     "api": ["https://lava-testnet-api.polkachu.com"],
     "rpc": ["https://lava-testnet-rpc.polkachu.com"],
     "snapshot_provider": "",

@@ -1,5 +1,5 @@
 {
-    "chain_name": "Testnet Andromeda",
+    "chain_name": "Testnet-Andromeda",
     "api": ["https://api-t.andromeda.nodestake.top"],
     "rpc": ["https://rpc-t.andromeda.nodestake.top"],
     "snapshot_provider": "",

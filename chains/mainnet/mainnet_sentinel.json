@@ -1,5 +1,5 @@
 {
-    "chain_name": "Mainnet Sentinel",
+    "chain_name": "Mainnet-Sentinel",
     "api": ["https://api-sentinel-ia.cosmosia.notional.ventures", "https://lcd.sentinel.co"],
     "rpc": ["https://api-sentinel-ia.cosmosia.notional.ventures:443", "https://rpc-sentinel.keplr.app:443", "https://rpc-sentinel.keplr.app:443"],
     "snapshot_provider": "",

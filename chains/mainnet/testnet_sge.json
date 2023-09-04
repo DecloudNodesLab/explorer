@@ -1,5 +1,5 @@
 {
-    "chain_name": "Testnet SGE Network",
+    "chain_name": "Testnet-SGE-Network",
     "api": ["https://saage-testnet-api.polkachu.com"],
     "rpc": ["https://saage-testnet-rpc.polkachu.com:443"],
     "snapshot_provider": "",

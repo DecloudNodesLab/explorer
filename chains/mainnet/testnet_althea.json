@@ -1,5 +1,5 @@
 {
-    "chain_name": "Testnet Althea",
+    "chain_name": "Testnet-Althea",
     "api": ["https://althea-testnet-api.polkachu.com"],
     "rpc": ["https://althea-testnet-rpc.polkachu.com"],
     "snapshot_provider": "",

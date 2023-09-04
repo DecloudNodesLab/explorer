@@ -1,5 +1,5 @@
 {
-    "chain_name": "Testnet OKP4",
+    "chain_name": "Testnet-OKP4",
     "api": ["https://api.testnet.okp4.network"],
     "rpc": ["https://api.testnet.okp4.network:443/rpc"],
     "snapshot_provider": "",
