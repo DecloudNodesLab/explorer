@@ -1,5 +1,6 @@
 {
     "chain_name": "Realio",
+    "coingecko": "realio-network",
     "alias": "realio network",
     "api": ["https://api.realio.nodestake.top"],
     "rpc": ["https://rpc.realio.nodestake.top"],
@@ -12,7 +13,7 @@
         "base": "ario",
         "symbol": "RIO",
         "exponent": "18",
-        "coingecko_id": "", 
+        "coingecko_id": "realio-network", 
         "logo": "/logos/realio.jpg"
     }],
     "addr_prefix": "realio",
