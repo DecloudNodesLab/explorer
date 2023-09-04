@@ -1,7 +1,7 @@
 {
-    "chain_name": "Testnet-Andromeda",
-    "api": ["https://api-t.andromeda.nodestake.top"],
-    "rpc": ["https://rpc-t.andromeda.nodestake.top"],
+    "chain_name": "Andromeda-testnet",
+    "api": ["https://andromeda-testnet.nodejumper.io:1317"],
+    "rpc": ["https://andromeda-testnet.nodejumper.io:443"],
     "snapshot_provider": "",
     "sdk_version": "0.45.12",
     "coin_type": "118",

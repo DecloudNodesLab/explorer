@@ -1,5 +1,5 @@
 {
-    "chain_name": "Testnet-Noria",
+    "chain_name": "Noria-testnet",
     "api":[ "https://api.noria-testnet.stake-take.com" ],
     "rpc":[ "https://rpc.noria-testnet.stake-take.com" ],
     "snapshot_provider": "",

@@ -1,5 +1,5 @@
 {
-    "chain_name": "Testnet-Empower",
+    "chain_name": "Empower-testnet",
     "api": ["https://empower-testnet-api.polkachu.com"],
     "rpc": ["https://empower-testnet-rpc.polkachu.com"],
     "snapshot_provider": "",

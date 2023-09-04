@@ -1,0 +1,20 @@
+{
+    "chain_name": "Realio",
+    "alias": "realio network",
+    "api": ["https://api.realio.nodestake.top"],
+    "rpc": ["https://rpc.realio.nodestake.top"],
+    "snapshot_provider": "",
+    "sdk_version": "0.46",
+    "coin_type": "118",
+    "min_tx_fee": "8000",
+    "theme_color": "#bcdaf5",
+    "assets": [{
+        "base": "ario",
+        "symbol": "RIO",
+        "exponent": "18",
+        "coingecko_id": "", 
+        "logo": "/logos/realio.jpg"
+    }],
+    "addr_prefix": "realio",
+    "logo": "/logos/realio.jpg"
+}

@@ -1,6 +1,6 @@
 {
-    "chain_name": "Mainnet-Gitopia",
-    "coingecko": "",
+    "chain_name": "Gitopia",
+    "coingecko": "gitpoia",
     "api": ["https://gitopia-api.polkachu.com"],
     "rpc": ["https://gitopia-rpc.polkachu.com"],
     "snapshot_provider": "",
@@ -13,7 +13,7 @@
         "base": "ulore",
         "symbol": "LORE",
         "exponent": "6",
-        "coingecko_id": "",
+        "coingecko_id": "gitpoia",
         "logo": "/logos/gitopia.png"
     }]
 }

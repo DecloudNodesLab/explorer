@@ -1,0 +1,10 @@
+server {
+    listen 80;
+    listen [::]:80;
+location / {
+  try_files $uri $uri/ /index.html;
+}
+    server_name explorer.declab.pro www.explorer.declab.pro;
+    root /dist/;
+    index index.html index.xml;
+}

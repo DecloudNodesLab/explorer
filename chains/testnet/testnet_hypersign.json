@@ -1,5 +1,5 @@
 {
-    "chain_name": "Testnet-Hypersign",
+    "chain_name": "Hypersign-testnet",
     "api": ["https://api-t.hypersign.nodestake.top"],
     "rpc": ["https://rpc-t.hypersign.nodestake.top"],
     "snapshot_provider": "",

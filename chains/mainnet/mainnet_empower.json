@@ -1,0 +1,20 @@
+{
+    "chain_name": "Empower",
+    "alias": "empowerchain",
+    "api": ["https://rest-empowerchain.ecostake.com:443"],
+    "rpc": ["https://rpc-empowerchain.ecostake.com:443"],
+    "snapshot_provider": "",
+    "sdk_version": "0.46",
+    "coin_type": "118",
+    "min_tx_fee": "8000",
+    "theme_color": "#79fc88",
+    "assets": [{
+        "base": "umpwr",
+        "symbol": "MPWR",
+        "exponent": "6",
+        "coingecko_id": "", 
+        "logo": "/logos/empower.png"
+    }],
+    "addr_prefix": "empower",
+    "logo": "/logos/empower.png"
+}

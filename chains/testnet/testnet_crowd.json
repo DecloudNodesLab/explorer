@@ -1,7 +1,7 @@
 {
-    "chain_name": "Testnet-Crowd Control",
-    "api": ["https://api-t.crowd.nodestake.top"],
-    "rpc": ["https://rpc-t.crowd.nodestake.top"],
+    "chain_name": "Cardchain-testnet",
+    "api": ["https://cardchain-testnet.nodejumper.io:1317"],
+    "rpc": ["https://cardchain-testnet.nodejumper.io:443"],
     "snapshot_provider": "",
     "sdk_version": "0.44.5",
     "coin_type": "118",
