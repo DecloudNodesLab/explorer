@@ -1,7 +1,7 @@
 {
     "chain_name": "Cardchain-testnet",
-    "api": ["https://cardchain-testnet.nodejumper.io:1317"],
-    "rpc": ["https://cardchain-testnet.nodejumper.io:443"],
+    "api": ["http://cardchain-testnet.declab.pro:31225"],
+    "rpc": ["http://cardchain-testnet.declab.pro"],
     "snapshot_provider": "",
     "sdk_version": "0.44.5",
     "coin_type": "118",
