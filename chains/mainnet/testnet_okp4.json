@@ -1,9 +1,9 @@
 {
     "chain_name": "OKP4-testnet",
-    "api": ["https://okp4.declab.pro/api"],
-    "rpc": ["https://okp4.declab.pro/rpc"],
+    "api": ["https://okp4.declab.pro/api/"],
+    "rpc": ["https://okp4.declab.pro/rpc/"],
     "snapshot_provider": "",
-    "sdk_version": "0.47.3",
+    "sdk_version": "0.46.2",
     "coin_type": "118",
     "min_tx_fee": "800",
     "addr_prefix": "okp4",
