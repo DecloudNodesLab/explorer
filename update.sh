@@ -5,6 +5,5 @@ tar -czvf ./explorer.tar.gz dist/
 sleep 2
 git add .
 sleep 2
-DATE=date
-git commit -m "Update $DATE"
+git commit -m "Update"
 sleep 2
