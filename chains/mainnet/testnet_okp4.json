@@ -3,7 +3,7 @@
     "api": ["https://okp4-api.declab.pro"],
     "rpc": ["https://okp4-rpc.declab.pro"],
     "snapshot_provider": "",
-    "sdk_version": "0.47.3",
+    "sdk_version": "0.46.2",
     "coin_type": "118",
     "min_tx_fee": "800",
     "addr_prefix": "okp4",
