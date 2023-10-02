@@ -1,7 +1,7 @@
 {
     "chain_name": "OKP4-testnet",
-    "api": ["http://provider.dcnorse.ddns.net:31836"],
-    "rpc": ["http://okp4-testnet.declab.pro"],
+    "api": ["https://okp4-api.declab.pro"],
+    "rpc": ["https://okp4-rpc.declab.pro"],
     "snapshot_provider": "",
     "sdk_version": "0.46.2",
     "coin_type": "118",
