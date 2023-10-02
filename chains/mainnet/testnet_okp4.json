@@ -1,7 +1,7 @@
 {
     "chain_name": "OKP4-testnet",
-    "api": ["https://api.testnet.okp4.network"],
-    "rpc": ["https://api.testnet.okp4.network:443/rpc"],
+    "api": ["http://okp4-testnet.declab.pro:31836"],
+    "rpc": ["http://okp4-testnet.declab.pro"],
     "snapshot_provider": "",
     "sdk_version": "0.46.2",
     "coin_type": "118",
