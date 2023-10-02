@@ -1,6 +1,6 @@
 {
     "chain_name": "OKP4-testnet",
-    "api": ["https://okp4.declab.pro/api/"],
+    "api": ["https://okp4.declab.pro/"],
     "rpc": ["https://okp4.declab.pro/rpc/"],
     "snapshot_provider": "",
     "sdk_version": "0.46.2",
