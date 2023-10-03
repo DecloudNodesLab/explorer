@@ -1,8 +1,8 @@
 {
     "chain_name": "OKP4-testnet",
-    "api": ["https://okp4.declab.pro","https://okp4-testnet.api.kjnodes.com","http://de53120hrpagt0tu94f21mie14.ingress.dcnorse.ddns.net","http://provider.dcnorse.ddns.net:32413","http://de53120hrpagt0tu94f21mie14.ingress.dcnorse.ddns.net:32413"],
-    "rpc": ["https://okp4.declab.pro/rpc","http://provider.dcnorse.ddns.net:30433","http://de53120hrpagt0tu94f21mie14.ingress.dcnorse.ddns.net:30433","http://de53120hrpagt0tu94f21mie14.ingress.dcnorse.ddns.net/rpc"],
-    "snapshot_provider": "",
+    "api": ["https://okp4.declab.pro","https://okp4-testnet.api.kjnodes.com"],
+    "rpc": ["https://okp4.declab.pro/rpc"],
+    "snapshot_provider": "https://okp4.declab.pro/latest.tar.lz4",
     "sdk_version": "0.47.3",
     "coin_type": "118",
     "min_tx_fee": "800",
