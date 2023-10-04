@@ -1,7 +1,7 @@
 {
     "chain_name": "Althea-testnet",
-    "api": ["hhttp://althea-testnet.declab.pro:31883"],
-    "rpc": ["http://althea-testnet.declab.pro"],
+    "api": ["https://althea.declab.pro","https://althea-testnet-api.polkachu.com"],
+    "rpc": ["https://althea.declab.pro/rpc","https://althea-testnet-rpc.polkachu.com:443"],
     "snapshot_provider": "",
     "sdk_version": "0.45.11",
     "coin_type": "118",
@@ -10,7 +10,7 @@
     "logo": "/logos/althea.png",
     "assets": [
       {
-        "base": "ualthea",
+        "base": "aalthea",
         "symbol": "ALTHEA",
         "exponent": "18",
         "logo": "/logos/althea.png"
