@@ -1,7 +1,7 @@
 {
     "chain_name": "Noria-testnet",
-    "api":[ "https://api.noria-testnet.stake-take.com" ],
-    "rpc":[ "https://rpc.noria-testnet.stake-take.com" ],
+    "api":[ "https://noria-testnet-api.polkachu.com","https://noria.declab.pro" ],
+    "rpc":[ "https://noria-testnet-rpc.polkachu.com","https://noria.declab.pro/rpc" ],
     "snapshot_provider": "",
     "sdk_version": "0.47.2",
     "coin_type": 118,
