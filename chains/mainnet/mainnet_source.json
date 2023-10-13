@@ -1,5 +1,6 @@
 {
     "chain_name": "Source",
+    "coingecko": "source-protocol",
     "api": ["https://source.declab.pro","https://api.source.nodestake.top"],
     "rpc": ["https://source.declab.pro/rpc","https://rpc.source.nodestake.top"],
     "snapshot_provider": "",
@@ -8,11 +9,13 @@
     "min_tx_fee": "800",
     "addr_prefix": "source",
     "logo": "/logos/source.jpg",
+    "theme_color": "#e949f5",
     "assets": [
       {
         "base": "usource",
         "symbol": "SOURCE",
         "exponent": "6",
+        "coingecko_id": "source-protocol", 
         "logo": "/logos/source.jpg"
       }
     ]
