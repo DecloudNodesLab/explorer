@@ -1,7 +1,7 @@
 {
     "chain_name": "Source",
-    "api": ["https://declab.pro","https://api.source.nodestake.top"],
-    "rpc": ["https://declab.pro/rpc","https://rpc.source.nodestake.top"],
+    "api": ["https://source.declab.pro","https://api.source.nodestake.top"],
+    "rpc": ["https://source.declab.pro/rpc","https://rpc.source.nodestake.top"],
     "snapshot_provider": "",
     "sdk_version": "0.45.15",
     "coin_type": "118",
