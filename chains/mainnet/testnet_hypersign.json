@@ -1,7 +1,7 @@
 {
     "chain_name": "Hypersign-testnet",
-    "api": ["https://api-t.hypersign.nodestake.top"],
-    "rpc": ["https://rpc-t.hypersign.nodestake.top"],
+    "api": ["https://hypersign-testnet-api.polkachu.com","https://api-t.hypersign.nodestake.top"],
+    "rpc": ["https://hypersign-testnet-api.polkachu.com","https://rpc-t.hypersign.nodestake.top"],
     "snapshot_provider": "",
     "sdk_version": "0.45.11",
     "coin_type": "118",

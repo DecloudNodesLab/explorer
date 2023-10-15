@@ -1,8 +1,8 @@
 {
     "chain_name": "OKP4-testnet",
-    "api": ["https://okp4.declab.pro","https://okp4-testnet.api.kjnodes.com"],
-    "rpc": ["https://okp4.declab.pro/rpc","https://okp4-testnet-rpc.polkachu.com"],
-    "snapshot_provider": "https://okp4.declab.pro/latest.tar.lz4",
+    "api": ["https://api-t.okp4.nodestake.top","https://okp4-testnet.api.kjnodes.com"],
+    "rpc": ["https://rpc-t.okp4.nodestake.top","https://okp4-testnet-rpc.polkachu.com"],
+    "snapshot_provider": "",
     "sdk_version": "0.47.3",
     "coin_type": "118",
     "min_tx_fee": "800",

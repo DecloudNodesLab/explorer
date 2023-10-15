@@ -1,7 +1,7 @@
 {
     "chain_name": "Source-testnet",
-    "api": ["https://api-t.source.nodestake.top"],
-    "rpc": ["https://rpc-t.source.nodestake.top"],
+    "api": ["https://source.api.kjnodes.com:443","https://api.source.nodestake.top"],
+    "rpc": ["https://source.rpc.kjnodes.com:443","https://rpc.source.nodestake.top"],
     "snapshot_provider": "",
     "sdk_version": "0.45.1",
     "coin_type": "118",

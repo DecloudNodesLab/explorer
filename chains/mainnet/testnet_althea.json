@@ -1,7 +1,7 @@
 {
     "chain_name": "Althea-testnet",
-    "api": ["https://althea.declab.pro","https://althea-testnet-api.polkachu.com"],
-    "rpc": ["https://althea.declab.pro/rpc","https://althea-testnet-rpc.polkachu.com:443"],
+    "api": ["https://althea-testnet.api.kjnodes.com","https://rest.nodejumper.io/altheatestnet"],
+    "rpc": ["https://althea-testnet.rpc.kjnodes.com","https://rpc.nodejumper.io:443/altheatestnet"],
     "snapshot_provider": "",
     "sdk_version": "0.45.11",
     "coin_type": "118",

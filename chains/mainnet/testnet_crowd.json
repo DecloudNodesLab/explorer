@@ -1,7 +1,7 @@
 {
     "chain_name": "Cardchain-testnet",
-    "api": ["https://cardchain-testnet.declab.pro","https://cc.api.t.stavr.tech"],
-    "rpc": ["https://cardchain-testnet.declab.pro/rpc","http://crowd.rpc.t.stavr.tech:21207"],
+    "api": ["https://api-t.crowd.nodestake.top","https://cc.api.t.stavr.tech"],
+    "rpc": ["https://rpc-t.crowd.nodestake.top","http://crowd.rpc.t.stavr.tech:21207"],
     "snapshot_provider": "",
     "sdk_version": "0.44.5",
     "coin_type": "118",
