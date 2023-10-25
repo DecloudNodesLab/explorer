@@ -1,0 +1,19 @@
+{
+    "chain_name": "Arkeo-testnet",
+    "api": ["https://arkeo-testnet-api.polkachu.com","https://api-t.arkeo.nodestake.top"],
+    "rpc": ["https://arkeo-testnet-rpc.polkachu.com:443","https://rpc-t.arkeo.nodestake.top"],
+    "snapshot_provider": "",
+    "sdk_version": "0.46.13",
+    "coin_type": "118",
+    "min_tx_fee": "800",
+    "addr_prefix": "tarkeo",
+    "logo": "/logos/arkeo.jpeg",
+    "assets": [
+      {
+        "base": "uarkeo",
+        "symbol": "ARKEO",
+        "exponent": "18",
+        "logo": "/logos/althea.png"
+      }
+    ]
+  }
