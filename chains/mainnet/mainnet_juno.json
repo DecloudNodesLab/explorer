@@ -11,7 +11,7 @@
         "base": "ujuno",
         "symbol": "JUNO",
         "exponent": "6",
-        "coingecko_id": "juno", 
+        "coingecko_id": "juno-network", 
         "logo": "/logos/juno.png"
     }],
     "addr_prefix": "juno",
