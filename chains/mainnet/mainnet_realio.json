@@ -12,7 +12,7 @@
     "assets": [{
         "base": "ario",
         "symbol": "RIO",
-        "exponent": "12",
+        "exponent": "6",
         "coingecko_id": "realio-network", 
         "logo": "/logos/realio.jpg"
     }],
