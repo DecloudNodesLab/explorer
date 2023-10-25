@@ -1,0 +1,19 @@
+{
+    "chain_name": "Juno",
+    "alias": "juno",
+    "api": ["https://api-juno-ia.cosmosia.notional.ventures", "https://juno-api.polkachu.com"],
+    "rpc": ["https://rpc-juno-ia.cosmosia.notional.ventures", "https://juno-rpc.polkachu.com"],
+    "snapshot_provider": "",
+    "sdk_version": "0.45.4",
+    "coin_type": "118",
+    "min_tx_fee": "8000",
+    "assets": [{
+        "base": "ujuno",
+        "symbol": "JUNO",
+        "exponent": "6",
+        "coingecko_id": "juno", 
+        "logo": "/logos/juno.png"
+    }],
+    "addr_prefix": "juno",
+    "logo": "/logos/juno.png"
+}
