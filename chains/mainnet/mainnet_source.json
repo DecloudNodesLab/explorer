@@ -1,7 +1,7 @@
 {
     "chain_name": "Source",
     "coingecko": "source-protocol",
-    "api": ["https://source.declab.pro:1311/","https://source.api.kjnodes.com:443","https://api.source.nodestake.top"],
+    "api": ["https://source.declab.pro/api","https://source.api.kjnodes.com:443","https://api.source.nodestake.top"],
     "rpc": ["https://source.declab.pro:26611","https://source.rpc.kjnodes.com:443","https://rpc.source.nodestake.top"],
     "snapshot_provider": "",
     "sdk_version": "0.45.15",
