@@ -1,7 +1,7 @@
 {
     "chain_name": "Empower",
     "alias": "empowerchain",
-    "api": ["http://empower.declab.pro:1313","https://empower-api.polkachu.com","https://rest-empowerchain.ecostake.com:443"],
+    "api": ["http://empower.declab.pro/api","https://empower-api.polkachu.com","https://rest-empowerchain.ecostake.com:443"],
     "rpc": ["http://empower.declab.pro:26620","https://empower-rpc.polkachu.com:443"],
     "snapshot_provider": "",
     "sdk_version": "0.46",
