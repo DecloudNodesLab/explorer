@@ -1,8 +1,8 @@
 {
     "chain_name": "Gitopia",
     "coingecko": "gitopia",
-    "api": ["http://gitopia.declab.pro:1312","https://gitopia-api.polkachu.com","https://rest.nodejumper.io/gitopia"],
-    "rpc": ["http://gitopia.declab.pro:26614","https://gitopia-rpc.polkachu.com","https://rpc.nodejumper.io:443/gitopia"],
+    "api": ["https://gitopia.declab.pro/api","https://gitopia-api.polkachu.com","https://rest.nodejumper.io/gitopia"],
+    "rpc": ["https://gitopia.declab.pro:26614","https://gitopia-rpc.polkachu.com","https://rpc.nodejumper.io:443/gitopia"],
     "snapshot_provider": "",
     "sdk_version": "0.46.12",
     "coin_type": "118",
