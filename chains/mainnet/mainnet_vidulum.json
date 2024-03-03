@@ -1,7 +1,7 @@
 {
     "chain_name": "Vidulum",
     "coingecko": "vidulum",
-    "api": ["https://vidulum.declab.pro/api","https://mainnet-lcd.vidulum.app", "https://api-vidulum-ia.cosmosia.notional.ventures"],
+    "api": ["https://vidulum.declab.pro","https://mainnet-lcd.vidulum.app", "https://api-vidulum-ia.cosmosia.notional.ventures"],
     "rpc": ["https://vidulum.declab.pro:26625","https://mainnet-rpc.vidulum.app:443", "https://rpc-vidulum-ia.cosmosia.notional.ventures:443"],
     "snapshot_provider": "",
     "sdk_version": "0.45.9",
