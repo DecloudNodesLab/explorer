@@ -1,8 +1,8 @@
 {
     "chain_name": "Juno",
     "alias": "juno",
-    "api": ["https://api-juno-ia.cosmosia.notional.ventures", "https://juno-api.polkachu.com"],
-    "rpc": ["https://rpc-juno-ia.cosmosia.notional.ventures", "https://juno-rpc.polkachu.com"],
+    "api": ["https://juno.declab.pro:443"."https://api-juno-ia.cosmosia.notional.ventures", "https://juno-api.polkachu.com"],
+    "rpc": ["https://juno.declab.pro:26610","https://rpc-juno-ia.cosmosia.notional.ventures", "https://juno-rpc.polkachu.com"],
     "snapshot_provider": "",
     "sdk_version": "0.45.4",
     "coin_type": "118",
