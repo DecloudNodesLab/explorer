@@ -3,7 +3,7 @@
     "coingecko": "realio-network",
     "alias": "realio",
     "api": ["https://realio.declab.pro:443","https://api.realio.nodestake.top:443"],
-    "rpc": ["https://realio.declab.pro:26634","https://rpc.realio.nodestake.top:443"],
+    "rpc": ["https://realio.declab.pro:26622","https://rpc.realio.nodestake.top:443"],
     "snapshot_provider": "",
     "sdk_version": "v0.46.11",
     "addr_prefix": "realio",
