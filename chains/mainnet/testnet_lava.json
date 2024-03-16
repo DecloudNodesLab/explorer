@@ -1,7 +1,7 @@
 {
     "chain_name": "Lava-testnet",
-    "api": ["https://lava-t.declab.pro:443","https://api-t.lava.nodestake.top","https://lava-testnet-api.polkachu.com"],
-    "rpc": ["https://lava-t.declab.pro:26631","https://rpc-t.lava.nodestake.top","https://lava-testnet-rpc.polkachu.com"],
+    "api": ["https://lava-t.declab.pro:443","https://api-t.lava.nodestake.top:443","https://lava-testnet-api.polkachu.com:443"],
+    "rpc": ["https://lava-t.declab.pro:26631","https://rpc-t.lava.nodestake.top:443","https://lava-testnet-rpc.polkachu.com:443"],
     "snapshot_provider": "",
     "sdk_version": "0.45.11",
     "coin_type": "118",
