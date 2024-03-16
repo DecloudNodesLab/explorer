@@ -1,7 +1,7 @@
 {
     "chain_name": "Sentinel",
     "coingecko": "sentinel",
-    "api": ["https://sentinel.declab.pro:443","https://api-sentinel-ia.cosmosia.notional.ventures", "https://lcd.sentinel.co"],
+    "api": ["https://sentinel.declab.pro:443","https://api-sentinel-ia.cosmosia.notional.ventures:443", "https://lcd.sentinel.co:443"],
     "rpc": ["https://sentinel.declab.pro:26628","https://api-sentinel-ia.cosmosia.notional.ventures:443", "https://rpc-sentinel.keplr.app:443", "https://rpc-sentinel.keplr.app:443"],
     "snapshot_provider": "",
     "sdk_version": "0.45.8",
