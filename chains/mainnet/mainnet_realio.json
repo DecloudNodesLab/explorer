@@ -1,5 +1,5 @@
 {
-    "chain_name": "realio",
+    "chain_name": "Realio",
     "coingecko": "realio-network",
     "alias": "realio",
     "api": ["https://realio.declab.pro:443","https://api.realio.nodestake.top:443"],
