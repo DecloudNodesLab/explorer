@@ -1,5 +1,5 @@
 {
-    "chain_name": "mars",
+    "chain_name": "Mars",
     "coingecko": "mars-protocol-a7fcbcfb-fd61-4017-92f0-7ee9f9cc6da3",
     "api": [
         {"provider": "Decloud Nodes Lab", "address": "https://mars.declab.pro:443"},
