@@ -17,7 +17,7 @@
     "coin_type": "118",
     "sdk_version": "0.46.8",
     "addr_prefix": "mars",
-    "logo": "/logos/mars.png",
+    "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/mars/images/mars-icon.png",
     "assets": [
         {
             "base": "umars",
