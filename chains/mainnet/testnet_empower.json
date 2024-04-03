@@ -1,7 +1,7 @@
 {
     "chain_name": "Empower-testnet",
-    "api": ["https://empower-testnet-api.polkachu.com"],
-    "rpc": ["https://empower-testnet-rpc.polkachu.com:443"],
+    "api": ["https://testnet-empower-api.konsortech.xyz:443","https://empower-testnet-api.itrocket.net:443","https://empw.api.t.stavr.tech:","https://empower-testnet-api.polkachu.com"],
+    "rpc": ["https://testnet-empower-rpc.konsortech.xyz:443","https://empower-testnet-rpc.itrocket.net:443"],
     "snapshot_provider": "",
     "sdk_version": "0.47.3",
     "coin_type": "118",
